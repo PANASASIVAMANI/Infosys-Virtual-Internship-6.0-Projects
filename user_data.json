@@ -1,0 +1,29 @@
+{
+    "panasasivamani@gmail.com": {
+        "hashed_password": "$2b$12$uXBgD2InkY0soATOk/Dt5ez7/cmewU.5CdQsDYbMJguBAvhFe6qO2",
+        "history": [
+            {
+                "timestamp": "2025-10-14T11:41:25.710086",
+                "task": "Batch Summarization",
+                "model": "N/A (Batch)",
+                "original_text_snippet": "CSV file: nlp_data_eval.csv, Rows: 4000...",
+                "feedback_score": null,
+                "feedback_comment": null,
+                "status": "Processing initiated (simulated background task)"
+            }
+        ],
+        "role": "user",
+        "last_login": "2025-10-14T11:45:33.183646"
+    },
+    "admin@example.com": {
+        "hashed_password": "$2b$12$PnWJtxUpUCifbA6/UBRaoem.ZPz8CUziaZAImesLdiRAKAS.MBz8.",
+        "history": [],
+        "role": "admin",
+        "last_login": "2025-10-14T11:50:46.751890"
+    },
+    "Sivamani@123": {
+        "hashed_password": "$2b$12$YQsioGZL.YGC3DWDwM4tzOlSpQ9DGvuREfbHQSQrzfFdaoG.iCB46",
+        "history": [],
+        "role": "user"
+    }
+}
