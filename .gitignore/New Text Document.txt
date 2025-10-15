@@ -1,20 +1,33 @@
 # Ignore Python virtual environments
 venv/
-.env/
 ENV/
+env/
 .venv/
 
-# Cache and build files
+# Python cache files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
+*$py.class
+
+# Environment variables
+*.env
+
+# Logs
+*.log
 
 # IDE/project files
 .vscode/
 .idea/
+*.swp
 
-# Frontend stuff
+# Node / frontend build files
 node_modules/
 dist/
 build/
+
+# Python package directories
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
